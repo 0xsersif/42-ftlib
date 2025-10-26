@@ -1,4 +1,4 @@
-# 🔧 libft — My First C Project (Built After Failing Piscine)
+# 🔧 libft — My First C Project 
 
 > *"Failure is not the opposite of success, it's part of it."*
 
